@@ -22,9 +22,11 @@
   - RoBERTa-DA  
   В конце выводится таблица с метриками: Top‑k accuracy, F1‑macro, Precision‑macro, Recall‑macro.
 
+  В папке [src](src) представлены основной код для запуска пайлайнов обучения:
+
 ## Метрики
 
-Результаты ансамбля моделей сохранены в [`metrics/ensemble_metrics.json`](Notebooks/metrics/ensemble_metrics.json).
+Результаты ансамбля моделей сохранены в [`metrics/ensemble_metrics.json`](/metrics/ensemble_metrics.json).
 
 ## Требования
 
